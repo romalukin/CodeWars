@@ -13,3 +13,9 @@ On the platform, software developers train on programming challenges known as Ka
 ## Leveling System
 
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
+
+## List of Challenges
+
+### Python:
+
+* [Sum of Digits](sum_of_digits.py) - 6 kyu
