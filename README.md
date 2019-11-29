@@ -20,3 +20,5 @@ On the platform, software developers train on programming challenges known as Ka
 
 * [Sum of Digits](sum_of_digits.py) - 6 kyu
 * [Sums of Parts](sums_of_parts.py) - 6 kyu
+* [Sort and Star](sort_and_star.py) - 8 kyu
+* [5 Without Numbers!!!](5_without_numbers.py) - 8 kyu
