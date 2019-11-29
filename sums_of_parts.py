@@ -23,29 +23,15 @@ parts_sums(ls) -> [21, 20, 18, 15, 11, 6, 0]
 ls = [744125, 935, 407, 454, 430, 90, 144, 6710213, 889, 810, 2579358]
 parts_sums(ls) -> [10037855, 9293730, 9292795, 9292388, 9291934, 9291504, 9291414, 9291270, 2581057, 2580168, 2579358, 0]
 """
+#   First version 
+#   Very pretty, but it tooks very long time to run BIG!!! lists
+def parts_sums_v1(ls):
+    return [sum(ls[i:]) for i in range(len(ls)+1)]
 
-def parts_sums1(ls):
-    sum_ls = []
-    i = 0
-    while i < len(ls):
-        sum_ls.append(sum(ls[i:]))
-        i += 1
-    print(sum_ls)
-
-def parts_sums2(ls):
-    sum_ls = []
-    for i in range(len(ls)+1):
-        sum_ls.append(sum(ls[i:]))
-    print(sum_ls)
-
-def parts_sums3(ls):
-    sum_ls = []
-    sum_ls.append(sum(ls))
-    ls.pop(0)
-    if len(ls) != 0:
-        parts_sums3(ls)
-    else:
-        print(sum_ls)
-
-ns = [0, 1, 3, 6, 10]
-parts_sums2(ns)
+#   Second version
+#   It passed the tests
+def parts_sums_v2(ls):
+    sum_ls = [sum(ls)]
+    for i in range(len(ls)):
+        sum_ls.append(sum_ls[i] - ls[i])
+    return sum_ls
