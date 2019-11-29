@@ -19,3 +19,4 @@ On the platform, software developers train on programming challenges known as Ka
 ### Python:
 
 * [Sum of Digits](sum_of_digits.py) - 6 kyu
+* [Sums of Parts](sums_of_parts.py) - 6 kyu
