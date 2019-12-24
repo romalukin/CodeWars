@@ -18,6 +18,9 @@ On the platform, software developers train on programming challenges known as Ka
 
 ### Python:
 
+* [Human Readable Time](human_readable_time.py) - 5 kyu
+* [Pete, the baker](pete_the_baker.py) - 5 kyu
+* [Where my anagrams at?](where_my_anagrams_at.py) - 5 kyu
 * [Sum of Digits](sum_of_digits.py) - 6 kyu
 * [Sums of Parts](sums_of_parts.py) - 6 kyu
 * [Sort and Star](sort_and_star.py) - 8 kyu
