@@ -21,8 +21,11 @@ On the platform, software developers train on programming challenges known as Ka
 * [Human Readable Time](human_readable_time.py) - 5 kyu
 * [Pete, the baker](pete_the_baker.py) - 5 kyu
 * [Where my anagrams at?](where_my_anagrams_at.py) - 5 kyu
+* [Convert String To Camel Case](convert_string_to_camel_case.py) - 6 kyu
+* [Take a Ten Minute Walk](take_a_ten_minute_walk.py) - 6 kyu
 * [The Supermarket Queue](the_supermarket_queue.py) - 6 kyu
 * [Sum of Digits](sum_of_digits.py) - 6 kyu
 * [Sums of Parts](sums_of_parts.py) - 6 kyu
+* [Your order, please](your_order_please.py) - 6 kyu
 * [Sort and Star](sort_and_star.py) - 8 kyu
 * [5 Without Numbers!!!](5_without_numbers.py) - 8 kyu
