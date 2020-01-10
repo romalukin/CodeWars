@@ -20,6 +20,7 @@ On the platform, software developers train on programming challenges known as Ka
 
 * [Human Readable Time](human_readable_time.py) - 5 kyu
 * [Pete, the baker](pete_the_baker.py) - 5 kyu
+* [Simple fraction to mixed number converter](simple_fraction_to_mixed_number_converter.py) - 5 kyu
 * [Where my anagrams at?](where_my_anagrams_at.py) - 5 kyu
 * [Convert String To Camel Case](convert_string_to_camel_case.py) - 6 kyu
 * [Take a Ten Minute Walk](take_a_ten_minute_walk.py) - 6 kyu
